@@ -1,0 +1,68 @@
+
+.partie1
+{
+    background-color: #3b5998;
+    
+    
+}
+.partie2
+{
+    background-image: linear-gradient(#fefeff, #e8eaf3, #d6dbea);
+}
+.partie1 h1{
+    margin-left: 150px;
+    color: white;
+}
+.partieleft  
+{
+    width: 60%;
+}
+.part2{
+    width: 53%;
+}
+
+.partieright
+{
+  width:40%;
+  margin-right: 10%;
+}
+.table5
+{
+
+    margin-top: -300px;
+}
+.table3 td
+{
+ color: white;
+}
+
+.button1
+{
+        background-color: #4267b2;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        cursor: pointer;
+}
+.button2
+{
+        background-color: #5e994b;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        padding: 10px 70px;
+        cursor: pointer;
+}
+.champ1 {
+    padding: 10px 10px;
+}
+.champ2 {
+    padding: 10px 110px;
+}
+.champ3 {
+    size:10px;
+    
+}
+
